@@ -1,0 +1,28 @@
+var structgGUIGrid_1_1Cell =
+[
+    [ "Cell", "structgGUIGrid_1_1Cell.html#a98b964d77bab635505ef46f704ee7dbe", null ],
+    [ "cellalignment", "structgGUIGrid_1_1Cell.html#a6cb86904f47ec6d7ca979667167f73c0", null ],
+    [ "cellcolumnno", "structgGUIGrid_1_1Cell.html#a4db043fed305b9b99c5b29953fba1aa8", null ],
+    [ "cellcontent", "structgGUIGrid_1_1Cell.html#a495f7c4c49788efde21b6148f0413280", null ],
+    [ "cellfontcolor", "structgGUIGrid_1_1Cell.html#ad5802364493e41a13913568baedf35bc", null ],
+    [ "cellh", "structgGUIGrid_1_1Cell.html#adbc16a895757c374b3c5c0aae0dd52ac", null ],
+    [ "cellrowno", "structgGUIGrid_1_1Cell.html#a3edc08ecd4d0f004cc417dcb28a48ae4", null ],
+    [ "celltype", "structgGUIGrid_1_1Cell.html#a796a3118d5d03a2a9642fd0842600b37", null ],
+    [ "cellw", "structgGUIGrid_1_1Cell.html#a18d25ba1bdcb734586614006710f0921", null ],
+    [ "cellx", "structgGUIGrid_1_1Cell.html#ad13a17f3a2c38cf0af2fd64aae578832", null ],
+    [ "celly", "structgGUIGrid_1_1Cell.html#a7bd3244887013dad72028dec37d1cedd", null ],
+    [ "fontnum", "structgGUIGrid_1_1Cell.html#ae8709edabb9b44032803c7529e91b6c8", null ],
+    [ "fontsize", "structgGUIGrid_1_1Cell.html#a1f61577a9b2403ebf47cecd4b398d066", null ],
+    [ "fontstate", "structgGUIGrid_1_1Cell.html#a0d34e5140bfff3f102eef2563765ef54", null ],
+    [ "isbold", "structgGUIGrid_1_1Cell.html#abbc34a4138eb2cffdfa1ab7f9f33f4f1", null ],
+    [ "iscellaligned", "structgGUIGrid_1_1Cell.html#aafb69ff4b9eeac0a91b0745b2562997f", null ],
+    [ "iscellselected", "structgGUIGrid_1_1Cell.html#a6170b43a3ab5613efeb3a37edf1b01aa", null ],
+    [ "iscolorchanged", "structgGUIGrid_1_1Cell.html#a518d8ccdeb424362f8f58d16e9aa6b13", null ],
+    [ "isitalic", "structgGUIGrid_1_1Cell.html#a9b3e983bf53e765470bebdb8dd18ba8b", null ],
+    [ "lineno", "structgGUIGrid_1_1Cell.html#a62c65d1287779290a5cabf4eabec45c2", null ],
+    [ "overflowcontent", "structgGUIGrid_1_1Cell.html#a6a6f3a8c1cbd138a9de68cfbae382f18", null ],
+    [ "readonly", "structgGUIGrid_1_1Cell.html#a1f485137b0c94db83a51472da3cb3a53", null ],
+    [ "removed", "structgGUIGrid_1_1Cell.html#a44181ae7a5a3f3f8e3c2a8c36a90211a", null ],
+    [ "showncontent", "structgGUIGrid_1_1Cell.html#abb6437a9c53cf19334448c01d1c34085", null ],
+    [ "textmoveamount", "structgGUIGrid_1_1Cell.html#a771d15da4e462d0e28cb16cc3229a986", null ]
+];
