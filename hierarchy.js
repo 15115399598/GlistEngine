@@ -146,6 +146,7 @@ var hierarchy =
         [ "gBoundingBox", "classgBoundingBox.html", null ],
         [ "gFbo", "classgFbo.html", null ],
         [ "gFog", "classgFog.html", null ],
+        [ "gGrid", "classgGrid.html", null ],
         [ "gMaterial", "classgMaterial.html", null ],
         [ "gNode", "classgNode.html", [
           [ "gCamera", "classgCamera.html", null ],
@@ -185,7 +186,8 @@ var hierarchy =
       [ "gSpriteAnimation", "classgSpriteAnimation.html", null ],
       [ "gSpriteAnimator", "classgSpriteAnimator.html", null ],
       [ "gThread", "classgThread.html", [
-        [ "gAssetLoader", "classgAssetLoader.html", null ]
+        [ "gAssetLoader", "classgAssetLoader.html", null ],
+        [ "gGUIAppThread", "classgGUIAppThread.html", null ]
       ] ],
       [ "gUbo< T >", "classgUbo.html", null ],
       [ "gWindows", "classgWindows.html", null ]
